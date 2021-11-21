@@ -10,3 +10,10 @@ git push [rep_link] [branch_name]
 git remote -v
 git branch
 git push origin master
+
+git reset [filename]
+git reset index.html
+git reset --hard
+
+git diff
+git diff index.html
